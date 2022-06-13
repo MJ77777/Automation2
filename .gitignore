@@ -1,8 +1,0 @@
-.idea# Project exclude paths
-/out/
-.Ds_Store
-*.iml
-/.idea/
-/target/
-/bin/
-/test-output/
